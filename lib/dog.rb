@@ -11,9 +11,7 @@ def name
   @name
 end
  
-def initialize(breed, optional)
-  @breed = breed
-end
+
 def breed=(breed)
   
     @breed = breed
